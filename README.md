@@ -1,1 +1,2 @@
-# FixProject3
+# Project3
+#jQuery updates
